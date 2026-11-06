@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Task Management & Prioritization",
+  "description": "Organize daily tasks, manage deadlines, prioritize important work with smart scoring, track productivity analytics, and achieve your goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
